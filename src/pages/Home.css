@@ -1,0 +1,27 @@
+.home-container {
+    text-align: center;
+    margin: 50px 0;
+  }
+  
+  .home-container h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .home-container p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .browse-button {
+    padding: 15px 25px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .browse-button:hover {
+    background-color: #0056b3;
+  }
+  
